@@ -1591,4 +1591,4 @@ exports.WETH = WETH;
 exports.currencyEquals = currencyEquals;
 exports.inputOutputComparator = inputOutputComparator;
 exports.tradeComparator = tradeComparator;
-//# sourceMappingURL=biswap-sdk.cjs.development.js.map
+//# sourceMappingURL=biswap-org-sdk.cjs.development.js.map

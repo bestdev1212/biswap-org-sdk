@@ -7,7 +7,7 @@ Checkout other SDK: [SDK collection](https://github.com/thanhnguyennguyen/evm-sw
 
 ## Usage
 ```sh
-npm install biswap-sdk
+npm install biswap-org-sdk
 ```
 
 ## Running tests
