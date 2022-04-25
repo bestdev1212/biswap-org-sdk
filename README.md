@@ -10,7 +10,6 @@ npm install biswap-org-sdk
 ## Running tests
 ```sh
 yarn install
-```
 
 ```sh
 yarn test
